@@ -6,11 +6,11 @@
 
 :not(h1) {
     font-size: large;
-    color: #9fa8da;
+    color: #ffffff;
 }
 
 body {
-    background-color: #1C1C1C;
+    background-color: #07a32c       ;
 }
 
 .container {
@@ -23,7 +23,7 @@ body {
     display: flex;
     flex-direction: column;
 
-    background-color: #383838;
+    background-color: #dbde9b;
     border-radius: 10px;
 }
 
@@ -39,11 +39,11 @@ body {
 }
 
 .title-container h1 {
-    color: #7986CB;
+    color: #dbde9b;
 }
 
 .button, .button:active, .button:visited {
-    background-color: #5C6BC0;
+    background-color: #ffffff;
     border-radius: 30px;
     width: 150px;
     height: 40px;
@@ -51,7 +51,7 @@ body {
     align-items: center;
     justify-content: center;
     text-decoration: none;
-    color: white !important;
+    color: #07a32c !important;
 
     margin-right: 1.5em;
 }
@@ -80,7 +80,7 @@ body {
 }
   
 .bid-inputs select {
-    background-color: #383838;
+    background-color: #dbde9b;
 
     margin: 0.5em 0;
     
